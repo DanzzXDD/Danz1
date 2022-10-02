@@ -1159,13 +1159,13 @@ for (let i of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'Source Code',
-url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+displayText: 'Group WhatsApp',
+url: 'https://chat.whatsapp.com/Ga23sCnAA6M8JYGlG8SxdW'
 }
 }, {
 callButton: {
  displayText: 'Number Phone Owner',
-phoneNumber: '+62 882-9202-4190'
+phoneNumber: 'wa.me/6285895774939'
 }
 }, {
 quickReplyButton: {
@@ -1198,13 +1198,13 @@ for (let yoi of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'Source Code',
- url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+displayText: 'Group WhatsApp',
+ url: 'https://chat.whatsapp.com/Ga23sCnAA6M8JYGlG8SxdW'
 }
 }, {
 callButton: {
 displayText: 'Number Phone Owner',
-phoneNumber: '+62 882-9202-4190'
+phoneNumber: 'wa.me/6285895774939'
 }
 }, {
 quickReplyButton: {
@@ -5564,20 +5564,20 @@ anu = `┌──⭓ *Info Scrip*
 │
 │ ⫹⫺ Library: Baileys-Md
 │ ⫹⫺ Language : Javascript
-│ ⫹⫺ Author: Dika Ardnt 
-│ ⫹⫺ Scrip : https://github.com/DikaArdnt/Hisoka-Morou
+│ ⫹⫺ Author: ♥️
+│ ⫹⫺ Scrip : Beli
 │ ⫹⫺ Desc: Jangan DiBully Masih Pemula
 │
 └───────⭓`
 let btn = [{
 urlButton: {
-displayText: 'Source Code',
-url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+displayText: 'Group WhatsApp',
+url: 'https://chat.whatsapp.com/Ga23sCnAA6M8JYGlG8SxdW'
 }
 }, {
 callButton: {
 displayText: 'Number Phone Owner',
-phoneNumber: '+62 882-9202-4190'
+phoneNumber: 'wa.me/6285895774939'
 }
 }, {
 quickReplyButton: {
@@ -6487,13 +6487,13 @@ anu = `┌──⭓ *Info User*
 └───────⭓`
 let btn = [{
 urlButton: {
-displayText: 'Source Code',
-url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+displayText: 'Group WhatsApp',
+url: 'https://chat.whatsapp.com/Ga23sCnAA6M8JYGlG8SxdW'
 }
 }, {
 callButton: {
 displayText: 'Number Phone Owner',
-phoneNumber: '+62 882-9202-4190'
+phoneNumber: 'wa.me/6285895774939'
 }
 }, {
 quickReplyButton: {
